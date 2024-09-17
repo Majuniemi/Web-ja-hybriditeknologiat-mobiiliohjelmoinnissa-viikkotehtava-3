@@ -6,3 +6,5 @@ During this exercise Stack navigation and Material design libraries are used to 
 User can navigate from home screen to second screen. Application bar from React Native Paper is used (instead of default one from React Native).
 
 ## Implemented UI
+
+<img src="navigation/IMG_8734D5B4B22B-1.jpeg" alt="HomeScreen" width="300"/>
