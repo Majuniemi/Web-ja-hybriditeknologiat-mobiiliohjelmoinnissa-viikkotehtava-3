@@ -7,6 +7,6 @@ User can navigate from home screen to second screen. Application bar from React 
 
 ## Implied UI
 
-<img scr="navigation/img/IMG_8734D5B4B22B-1.jpeg" alt="HomeScreen" witdh="300"/>
+<img scr="/img/IMG_8734D5B4B22B-1.jpeg" alt="HomeScreen" witdh="300"/>
 
-<img scr="navigation/img/IMG_7C13D3CA669C-1.jpeg" alt="Secondcreen" witdh="300"/>
+<img scr="img/IMG_7C13D3CA669C-1.jpeg" alt="Secondcreen" witdh="300"/>
