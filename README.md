@@ -7,4 +7,4 @@ User can navigate from home screen to second screen. Application bar from React 
 
 ## Implemented UI
 
-<img src="navigation/IMG_8734D5B4B22B-1.jpeg" alt="HomeScreen" width="300"/>
+<img src="IMG_8734D5B4B22B-1.jpeg" alt="HomeScreen" width="300"/>
